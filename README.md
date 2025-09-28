@@ -7,6 +7,4 @@ And click [here](https://github.com/aranjeetpaul/Emergency-Room-Dashboard/blob/m
 
 > For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visit my [Tableau Public](https://public.tableau.com/app/profile/aranjeet.paul/vizzes).
 >
-> Click [here](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/tree/main) to view an end-to-end portfolio project of an e-commerce company named Echo Circuit.
->
 > Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/aranjeet-paul/)!
